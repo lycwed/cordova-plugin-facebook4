@@ -1,7 +1,7 @@
 {
   "name": "lycwed-cordova-plugin-facebook4",
-  "version": "1.0.0",
-  "description": "Cordova Facebook SDK 4 Plugin",
+  "version": "1.0.1",
+  "description": "Cordova support for Facebook Connect",
   "cordova": {
     "id": "lycwed-cordova-plugin-facebook4",
     "platforms": [
